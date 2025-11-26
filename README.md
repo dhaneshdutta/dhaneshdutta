@@ -1,1 +1,1 @@
-i like doing ts🥀🥀
+recompiling my gentoo system for the nth time
