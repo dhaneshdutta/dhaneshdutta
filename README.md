@@ -1,1 +1,2 @@
-recompiling my gentoo system for the nth time
+"Free software' is a matter of liberty, not price. To understand the concept, you should think of 'free' as in 'free speech,' not as in 'free beer'."
+- Richard Stallman
